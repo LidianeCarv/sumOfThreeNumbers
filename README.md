@@ -1,1 +1,1 @@
-Esse programa retorna conjuntos de três números que somados dêem o resultado igual a 0.
+Esse programa retorna conjuntos de três números que somados o resultado igual a 0.
